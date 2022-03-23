@@ -20,7 +20,7 @@ You should see in your console a print out of the phrase "Hello World". Through 
 At first glance, it may seem there are a lot of mysterious elements to the code above, so let's break down each element and describe their functionality.
 
 - `#include <iostream>` is an import statement that imports the `iostream` library for input / output functionality.
-- `using namespace std;` states that the naming conventions used in the program come from the standaard library.
+- `using namespace std;` states that the naming conventions used in the program come from the standard library.
 - `int main(){ ... }` is the first function to be executed in a C++ file.
   - `{ }` the curly braces contains the code to be executed.
 - `cout << "Hello World";` generates a print statement to the Console.
