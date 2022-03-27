@@ -36,3 +36,13 @@ switch (day) {
 - Once a matching `case` has been found then none of the other cases will be checked.
 - If there was no matching case then the `default` code block will execute. 
   - Including a `default` case is optional.
+
+### Difference between `switch` and `if-else` statements
+
+| `if-else` | `switch` |
+| Only a single statement is executed | All statements are executed until `break;` is encountered |
+| Statement tests for any kind of comparison (>, <, >=, etc.) | statement only tests for equality |
+| Each comparison may contain different variables | Only a single variable is evaluated |
+
+## References
+- [Difference between if-else and switch](https://www.tutorialspoint.com/difference-between-if-else-and-switch)
