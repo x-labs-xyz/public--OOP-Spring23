@@ -40,8 +40,9 @@ switch (day) {
 ### Difference between `switch` and `if-else` statements
 
 | `if-else` | `switch` |
+| - | - |
 | Only a single statement is executed | All statements are executed until `break;` is encountered |
-| Statement tests for any kind of comparison (>, <, >=, etc.) | statement only tests for equality |
+| Statement tests for any kind of comparison (>, <, >=, etc.) | Statement only tests for equality |
 | Each comparison may contain different variables | Only a single variable is evaluated |
 
 ## References
