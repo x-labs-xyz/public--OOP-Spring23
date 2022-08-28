@@ -1,9 +1,9 @@
 # Object-oriented Programming Course
-This repository contains lecture materials for the ENGR-UH 2510 Object-oriented Programming (OOP) course taught at NYUAD in Spring 2022.
+This repository contains lecture materials for the ENGR-UH 2510 Object-oriented Programming (OOP) course taught at NYUAD in Fall 2022.
 
 ## Week 1
 
-__Date__: Wed 23rd & Mon 28th March 2022
+__Date__: Tues 30th Aug & Thurs 1st Sept 2022
 
 - **Lecture**: C++ Review
   - [[Video](https://www.youtube.com/watch?v=HBM_Sb00pK8&list=PLViFAnmN74nBnDTTuIbtYVsrxOWvbIcJK&index=36)]  [Introduction](0%20Introduction) (5 mins) 
@@ -15,7 +15,7 @@ __Date__: Wed 23rd & Mon 28th March 2022
 
 ## Week 2
 
-__Date__: Wed 30th March & Mon 4th April 2022
+__Date__: Tues 6th Aug & Thurs 8th Sept 2022
 
 - **Lecture**: [[Video Playlist](https://www.youtube.com/playlist?list=PLViFAnmN74nC9_DHUqACoaaUhxxAvx-KI)] [Intermediate Functions](3%20Intermediate%20Functions)
   - [[Video](https://youtu.be/Pvm36Ac1__o)] [Inline Functions](3%20Intermediate%20Functions/Inline%20Functions)
@@ -30,7 +30,7 @@ __Date__: Wed 30th March & Mon 4th April 2022
 
 ## Week 3
 
-__Date__: Wed 6th & Mon 11th April 2022
+__Date__: Tues 13th Aug & Thurs 15th Sept 2022
 
 - **Lecture**: [[Video Playlist](https://www.youtube.com/playlist?list=PLViFAnmN74nCDG4MEWcsOcJxM8SqOcqj6)] [Classes and Objects](4%20Classes%20and%20Objects)
   - [[Video #1](https://youtu.be/KuEFkl5UPk8) and [Video #2](https://youtu.be/6SUODnSBNRA)] [Defining Classes and Objects](4%20Classes%20and%20Objects/Class)
@@ -44,7 +44,7 @@ __Date__: Wed 6th & Mon 11th April 2022
 
 ## Week 4
 
-__Date__: Wed 13th & Mon 18th April 2022
+__Date__: Tues 20th Aug & Thurs 22nd Sept 2022
 
 - **Lecture**: [Class Templates](5%20Class%20Templates)
   - [[Video](https://youtu.be/lIIIx_nwOe0)] [C++ Class Templates](5%20Class%20Templates/Class%20Templates)
@@ -56,7 +56,7 @@ __Date__: Wed 13th & Mon 18th April 2022
 
 ## Week 5
 
-__Date__: Wed 20th April & Mon 2nd May 2022
+__Date__: Tues 27th Aug & Thurs 29th Sept 2022
 
 - **Lecture**: [Friendship, Inheritance, and Polymorphism](6%20Friendship)
   - [[Video #1](https://youtu.be/t9S9VslpfII) and [Video #2](https://youtu.be/MtWq0cOkYxo)] [Friendship](6%20Friendship/Friendship)
@@ -71,7 +71,7 @@ __Date__: Wed 20th April & Mon 2nd May 2022
 
 ## Week 6
 
-__Date__: Wed 4th & Mon 9th May 2022
+__Date__: Tues 4th Oct & Thurs 6th Oct 2022
 
 - **Lecture**: [Performance](7%20Performance)
   - [[Video](https://youtu.be/2eG2qsLu5u4)] [Exceptions](7%20Performance/Exceptions)
@@ -85,6 +85,6 @@ __Date__: Wed 4th & Mon 9th May 2022
 
 ## Week 7
 
-__Date__: Wed 11th May 2022
+__Date__: Tues 11th Oct & Thurs 13th Oct 2022
 
 - **Review**
