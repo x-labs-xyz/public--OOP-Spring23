@@ -134,3 +134,4 @@ In the above example, `Volume` is a private variable global to the class, while 
 
 # Reference
 - [C++ Constructors - programiz.com](https://www.programiz.com/cpp-programming/constructors)
+- [Singletons - refactoring.guru](https://refactoring.guru/design-patterns/singleton/cpp/example)
