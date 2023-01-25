@@ -29,7 +29,7 @@ At first glance, it may seem there are a lot of mysterious elements to the code 
   - `;` defines the end of a function.
 - `return 0;` ends the main function.
 
-You may also notice that code has been indentation. This helps make the code readable, but is not necessary for successfully running it.
+You may also notice that code has been indented. This helps make the code readable, but is not necessary for successfully running it.
 
 ## 3. Adding a new line
 
