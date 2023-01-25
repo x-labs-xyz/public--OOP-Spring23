@@ -10,7 +10,7 @@ foo = new int[5];
 
 In the example above, a pointer variable `foo` is defined wtih no value assigned. In the second line, the pointer variable foo is then allocated an array to be of size 5.
 
-To access _value_ of the elements of of the pointer variable, the index notation can be used.
+To access a _value_ of the elements of the pointer variable, the index notation can be used.
 ```c++
 cout << foo[0] ; // 0 (no value has been assigned yet)
 ```
