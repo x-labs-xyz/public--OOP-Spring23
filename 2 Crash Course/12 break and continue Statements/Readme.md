@@ -46,7 +46,7 @@ while (i < 10) {
   cout << i << "\n";
   i++;
   
-	if (i >= 7) {
+  if (i >= 7) {
     // break out of the while loop
     break;
   }
