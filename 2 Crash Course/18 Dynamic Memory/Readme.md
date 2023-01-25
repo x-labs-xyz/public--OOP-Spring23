@@ -63,3 +63,4 @@ delete[] foo;
 # Reference
 - [C++ Tutorial on Dynamic Memory Allocation](https://www.cplusplus.com/doc/tutorial/dynamic/)
 - [new and delete Operators for Dynamic Memory](https://www.geeksforgeeks.org/new-and-delete-operators-in-cpp-for-dynamic-memory/)
+- [Dynamically allocating arrays](https://www.learncpp.com/cpp-tutorial/dynamically-allocating-arrays/)
