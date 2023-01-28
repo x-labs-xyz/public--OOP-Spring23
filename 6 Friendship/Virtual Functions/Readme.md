@@ -102,7 +102,8 @@ In the above example, the function defined in the _base_ class was indeed overri
 There are (atleast) two cases where virtual functions will need to be defined: (1) if you are passing objects by reference to a function (e.g. printVal()), the base version of the method will be executed (we pass pointers because copying objects may take up too much memory), (2) if we loop through a vector of objects, the type has to be consistent, objects may be different derived classes, so the base class may be used to define the vector type. In the example below, not using `virtual` results in print outs of the base class.
 
 ```c++
-#include <iostream>#include <vector>using namespace std;
+#include <iostream>
+#include <vector>using namespace std;
 // -- Solution add 'virtual' keyword
 class Mammal { 
   private: string printStatement = "Mammals can give direct birth."; 
